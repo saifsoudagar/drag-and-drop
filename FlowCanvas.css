@@ -1,0 +1,16 @@
+
+.flow-canvas {
+    height: 600px;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+
+  .add-card-button {
+    margin: 20px;
+  }
+  
+  .card-container {
+    position: relative;
+  }
+  
